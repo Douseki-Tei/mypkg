@@ -1,4 +1,7 @@
-PDX-License-Identifier:BSD-2.0
+#!/usr/bin/env python3
+
+
+#PDX-License-Identifier:BSD-2.0
 
 #*Copyright(c)2022 Ryuich Ueda. All rights reserved.
 #*Copyright(c)2022 Douseki Tei. All rights reserved.
