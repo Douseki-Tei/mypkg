@@ -71,4 +71,4 @@ Copyright (c) 2022 Ryuichi Ueda
 
 Copyright (c) 2022 Douseki Tei
 
-ライセンス：[LISENCE](https://github.com/hiro2001/mypkg/blob/main/LICENSE)
+ライセンス：[LISENCE](https://github.com/Douseki-Tei/mypkg/blob/main/LICENSE)
