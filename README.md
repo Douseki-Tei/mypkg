@@ -24,7 +24,7 @@ chmod +x count.py
   ```
 source ~/.bashrc
  ```
- 実行
+ 実行する
  ```
 rosrun mypkg count.py
  ```
@@ -39,7 +39,7 @@ chmod +x twice.py
   ```
 source ~/.bashrc
  ```
- 実行
+ 実行する
  ```
 rosrun mypkg twice.py
  ```
@@ -54,7 +54,7 @@ chmod +x third.py
   ```
 source ~/.bashrc
  ```
- 実行
+ 実行する
  ```
 rosrun mypkg third.py
  ```
@@ -64,11 +64,11 @@ rostopic echo /third
  ```
 # デモ動画
 
-https://youtu.be/lh7DT14W15o
+https://youtu.be/ILBf_BQGses
 
 # ライセンス
 Copyright (c) 2022 Ryuichi Ueda
 
 Copyright (c) 2022 Douseki Tei
 
-ライセンスについて：[LISENCE](https://github.com/hiro2001/mypkg/blob/main/LICENSE)
+ライセンス：[LISENCE](https://github.com/hiro2001/mypkg/blob/main/LICENSE)
