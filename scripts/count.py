@@ -16,5 +16,5 @@ n = 10
 
 while not rospy.is_shutdown():
          n -= 10
-              pub.publish(n)
-                   rate.sleep()
+         pub.publish(n)
+         rate.sleep()
